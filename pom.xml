@@ -24,6 +24,15 @@
 		<tag>HEAD</tag>
 	</scm>
 
+	<developers>
+		<developer>
+			<name>Joao Viegas</name>
+			<email>joao.viegas@mindprogeny.com</email>
+			<organization>Mind Progeny</organization>
+			<organizationUrl>http://www.mindprogeny.com</organizationUrl>
+		</developer>
+	</developers>
+
 	<distributionManagement>
 		<snapshotRepository>
 			<id>ossrh</id>
